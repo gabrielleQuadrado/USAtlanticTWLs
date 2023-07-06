@@ -11,7 +11,7 @@ message: >-
   from this file.
 type: dataset
 authors:
-  - given-names: Gabrielle
+  - given-names: Gabrielle P.
     name-particle:
     family-names: Quadrado
     email: gpereiraquadrado@ufl.edu
@@ -19,7 +19,7 @@ authors:
     orcid: 'https://orcid.org/0000-0001-5714-6770'
 identifiers:
   - type: other
-    value: N/A
+    value: 
 repository-code: 'https://github.com/gabrielleQuadrado/USAtlanticTWLs'
 url: 'https://github.com/'
 version: '1'

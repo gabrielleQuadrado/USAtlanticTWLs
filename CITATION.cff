@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Results for the seasonal variability characterization of
+  the timing and drivers of annual maximum TWLs along the
+  U.S. Atlantic Coast
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Gabrielle
+    name-particle: P.
+    family-names: Quadrado
+    email: gpereiraquadrado@ufl.edu
+    affiliation: University of Florida
+    orcid: 'https://orcid.org/0000-0001-5714-6770'
+identifiers:
+  - type: other
+    value: N/A
+repository-code: 'https://github.com/gabrielleQuadrado/USAtlanticTWLs'
+url: 'https://github.com/'
+version: '1'
+date-released: '2023-07-03'

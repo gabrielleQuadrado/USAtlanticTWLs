@@ -12,7 +12,7 @@ message: >-
 type: dataset
 authors:
   - given-names: Gabrielle
-    name-particle: P.
+    name-particle:
     family-names: Quadrado
     email: gpereiraquadrado@ufl.edu
     affiliation: University of Florida

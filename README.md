@@ -14,6 +14,6 @@ the TWL and its contributors during seasonal maxima events. The folder contains 
 
 5) [Dependence Characterization](kendallsCorrelation) - data used to create Figure 8, which shows the dependence between extreme TWL events and storm-driven components (i.e., storm surge and waves) during the tropical and extratropical storm seasons through Kendall's correlation coefficient.
 
-6) [Annual and Seasonal TWL Maxima Return Levels](GEVFits) - data used to create Figure 9, which displays estimates of return levels based on Generalized Extreme Value (GEV) distribution fits for annual maxima and seasonal maxima events. The folder also contains data for the combined return period estimates based on the seasonal maxima GEV fits. 
+6) [Annual and Seasonal TWL Maxima Return Levels](GEVFits) - data used to create Figure 9, which displays estimates of return levels based on Generalized Extreme Value (GEV) distribution fits for annual maxima and seasonal maxima events. The folder is subdivided into three subfolders corresponding to the stations represented in Figure 9 (i.e., Sandy Hook, NJ, Kiptopeke, VA, and Fernandina Beach, FL). Each subfolder also contains data for the combined return period estimates based on the seasonal maxima GEV fits. 
 
 If you have any questions, please, contact [Gabrielle P. Quadrado](mailto:gpereiraquadrado@ufl.edu?subject=[GitHub]%20Total%20Water%20Level%20Drivers).

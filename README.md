@@ -3,7 +3,7 @@ Data release to the paper "The Timing, Magnitude, and Relative Composition of An
 
 The data provided here are used to reproduce the figures on the paper. This data release includes the following: 
 
-1) [Annual Maxima TWL Events](annualMaximaEvents) - data used to create Figure 3 [annualMaximaRelativeContribution_Uniform](annualMaximaRelativeContribution_Uniform folder) of the manuscript and Figure S2 of the Supporting Information document [annualMaximaRelativeContribution_NonUniform](annualMaximaRelativeContribution_NonUniform folder). Both figures display the relative contribution of processes to average and extreme TWLs. The file '' in the main folder contains the average magnitude of annual maximum TWLs data, which were used to produce Figure S1 of the Supporting Information document. 
+1) [Annual Maxima TWL Events](annualMaximaEvents) - data used to create Figure 3 of the manuscript and Figure S2 of the Supporting Information document. Both figures display the relative contribution of processes to average and extreme TWLs. The file 'allStations_annualMaxMagnitude_stats_runup.mat' in the main folder contains the average magnitude of annual maximum TWLs data, which were used to produce Figure S1 of the Supporting Information document. 
 
 2) [Co-Occurrence Analysis](coOccurrencePercentage) - data used to create Figure 4, which displays the percent co-occurrence of astronomical tides, storm surge, wave runup, significant wave height, and peak wave period annual maxima during annual maximum TWLs.
    
@@ -14,6 +14,6 @@ the TWL and its contributors during seasonal maxima events. The folder contains 
 
 5) [Dependence Characterization](kendallsCorrelation) - data used to create Figure 8, which shows the dependence between extreme TWL events and storm-driven components (i.e., storm surge and waves) during the tropical and extratropical storm seasons through Kendall's correlation coefficient.
 
-6) [Annual and seasonal TWL maxima Return Levels](GEVFits) - data used to create Figure 9, which displays estimates of return levels based on Generalized Extreme Value (GEV) distribution fits for annual maxima and seasonal maxima events. The folder also contains data for the combined return period estimates based on the seasonal maxima GEV fits. 
+6) [Annual and Seasonal TWL Maxima Return Levels](GEVFits) - data used to create Figure 9, which displays estimates of return levels based on Generalized Extreme Value (GEV) distribution fits for annual maxima and seasonal maxima events. The folder also contains data for the combined return period estimates based on the seasonal maxima GEV fits. 
 
 If you have any questions, please, contact [Gabrielle P. Quadrado](mailto:gpereiraquadrado@ufl.edu?subject=[GitHub]%20Total%20Water%20Level%20Drivers).

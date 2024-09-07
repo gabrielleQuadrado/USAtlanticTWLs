@@ -4,7 +4,6 @@
 % left y-axis. By specifying method = 1, it plots results for AM. By
 % specifying method = 2, it plots results for POT.
 % 
-% 
 % % This script reproduces Figure 3 and 4 in the paper "The timing, magnitude, 
 % and relative composition of extreme total water levels vary seasonally 
 % along the U.S. Atlantic Coast" by Gabrielle P. Quadrado & Katherine A.
@@ -19,7 +18,7 @@ addpath '...\USAtlanticTWLs\annualMaximabyMonth\';
 addpath '...\USAtlanticTWLs\POTbyMonth\'; 
 clc;close all;clear all
 
-method=2; % Select method for reproducing Figure 3 (based on AM) or Figure
+method=1; % Select method for reproducing Figure 3 (based on AM) or Figure
 % 4 (based on POT), where method = 1 = AM, method = 2 = POT
 
 for i = 1:10

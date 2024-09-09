@@ -23,3 +23,6 @@ the TWL and its contributors during seasonal maxima events. The folder also cont
 8) [Figure Scripts](figureScripts)  - folder contains all scripts to reproduce Figures 3 to 9 in the paper and Figures S1 to S4 in the Supporting Information. 
 
 If you have any questions or need further clarification, please contact [Gabrielle P. Quadrado](mailto:gpereiraquadrado@ufl.edu?subject=[GitHub]%20Total%20Water%20Level%20Drivers).
+
+# Suggested Citation
+Quadrado, G. P. (2024). Data release to the "The Timing, Magnitude, and Relative Composition of Extreme Total Water Levels Vary Seasonally along the U.S. Atlantic Coast" (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.13736405

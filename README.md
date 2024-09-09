@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/661040372.svg)](https://zenodo.org/doi/10.5281/zenodo.13736404)
+
 # Assessing Total Water Level Drivers - Data Release
 Data release to the paper "The Timing, Magnitude, and Relative Composition of Extreme Total Water Levels Vary Seasonally along the U.S. Atlantic Coast".
 

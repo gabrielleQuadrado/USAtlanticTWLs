@@ -25,7 +25,6 @@ the TWL and its contributors during seasonal maxima events. The folder also cont
 If you have any questions or need further clarification, please contact [Gabrielle P. Quadrado](mailto:gpereiraquadrado@ufl.edu?subject=[GitHub]%20Total%20Water%20Level%20Drivers).
 
 # Suggested Citations
-Paper
 
 Paper
 

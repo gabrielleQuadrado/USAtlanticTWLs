@@ -28,7 +28,7 @@ If you have any questions or need further clarification, please contact [Gabriel
 
 Paper
 
-Quadrado, G. P., & Serafin, K.A. (2024). The Timing, Magnitude, and Relative Composition of Extreme Total Water Levels Vary Seasonally along the U.S. Atlantic Coast. Journal of Geophysical Research: Oceans. Manuscript in review.
+Quadrado, G. P., & Serafin, K. A. (2024).The timing, magnitude, and relativecomposition of extreme total water levelsvary seasonally along the U.S. Atlanticcoast. Journal of Geophysical Research:Oceans, 129, e2023JC020557.  https://doi.org/10.1029/2023JC020557
 
 Data Release
 
